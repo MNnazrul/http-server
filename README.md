@@ -1,12 +1,6 @@
-Here's a `README.md` you can use for your GitHub repository, describing your implementation of the **Build Your Own HTTP Server** challenge in Go:
-
----
-
-# 🕸️ Build Your Own HTTP Server in Go
+## http-server
 
 This is my implementation of the [CodeCrafters](https://codecrafters.io) "Build Your Own HTTP Server" challenge using the Go programming language.
-
-> 🚀 Challenge Completed: [View Progress](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
 
 ## 📖 About the Challenge
 
